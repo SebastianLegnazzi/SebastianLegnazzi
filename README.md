@@ -1,3 +1,18 @@
+<!-- TRANSLATOR -->
+<div align="center">
+
+<a href="README.md">
+  <img src="https://img.shields.io/badge/🇪🇸%20Español-1F2937?style=for-the-badge&logo=googletranslate&logoColor=F9FAFB"/>
+</a>
+
+<a href="README.en.md">
+  <img src="https://img.shields.io/badge/🇺🇸%20English-1F2937?style=for-the-badge&logo=googletranslate&logoColor=60A5FA"/>
+</a>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <!-- HERO -->
@@ -7,7 +22,6 @@
 
 <!-- BADGES -->
 <img src="https://img.shields.io/badge/Software%20Engineer-1F2937?style=for-the-badge&logo=googlecloud&logoColor=60A5FA&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8&labelColor=111827"/>
 <img src="https://img.shields.io/badge/Tecfield-374151?style=for-the-badge&logo=databricks&logoColor=F59E0B&labelColor=111827"/>
 
 <br/>
@@ -50,17 +64,9 @@
 
 ### 🎨 Frontend
 
-<br/>
-
-<img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Angular-1F2937?style=for-the-badge&logo=angular&logoColor=EF4444"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Vue.js-1F2937?style=for-the-badge&logo=vuedotjs&logoColor=4ADE80"/>
+<br/><img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<br/><img src="https://img.shields.io/badge/Angular-1F2937?style=for-the-badge&logo=angular&logoColor=EF4444"/>
+<br/><img src="https://img.shields.io/badge/Vue.js-1F2937?style=for-the-badge&logo=vuedotjs&logoColor=4ADE80"/>
 
 </div>
 
@@ -74,17 +80,13 @@
 
 ### ⚙️ Backend
 
-<br/>
+<br/><img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=4ADE80"/>
+<br/><img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=F9FAFB"/>
+<br/><img src="https://img.shields.io/badge/PHP-1F2937?style=for-the-badge&logo=php&logoColor=A78BFA"/>
+<br/><img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=FACC15"/>
+<br/><img src="https://img.shields.io/badge/Laravel-1F2937?style=for-the-badge&logo=laravel&logoColor=F97316"/>
+<br/><img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=4ADE80"/>
 
-<img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=4ADE80"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=F9FAFB"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PHP-1F2937?style=for-the-badge&logo=php&logoColor=A78BFA"/>
 
 </div>
 
@@ -98,17 +100,11 @@
 
 ### 🗄️ Data
 
-<br/>
-
-<img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=4ADE80"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=60A5FA"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=93C5FD"/>
+<br/><img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=4ADE80"/>
+<br/><img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=60A5FA"/>
+<br/><img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=93C5FD"/>
+<br/><img src="https://img.shields.io/badge/Nginx-1F2937?style=for-the-badge&logo=nginx&logoColor=4ADE80"/>
+<br/><img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F97316"/>
 
 </div>
 
@@ -122,17 +118,9 @@
 
 ### 🖥️ Infraestructura
 
-<br/>
-
-<img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=FACC15"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Windows-1F2937?style=for-the-badge&logo=microsoftwindows&logoColor=60A5FA"/>
+<br/><img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=FACC15"/>
+<br/><img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
+<br/><img src="https://img.shields.io/badge/Windows-1F2937?style=for-the-badge&logo=microsoftwindows&logoColor=60A5FA"/>
 
 </div>
 
