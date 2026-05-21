@@ -1,17 +1,20 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Sebastian%20Legnazzi&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1F2937,100:374151&height=250&section=header&text=Sebastian%20Legnazzi&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=F9FAFB" width="100%" />
 
 <br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/ROLE-Software%20Engenieer-0041BA?style=for-the-badge&logoColor=white&labelColor=131a2c" alt="Role Badge"/> <img src="https://img.shields.io/badge/COMPANY-Tecfield-BA6600?style=for-the-badge&logoColor=white&labelColor=131a2c" alt="Company Badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineer-1F2937?style=for-the-badge&logo=googlecloud&logoColor=60A5FA&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Tecfield-374151?style=for-the-badge&logo=databricks&logoColor=F59E0B&labelColor=111827"/>
+
 <br/>
 <br/>
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=980&lines=Full+Stack+Developer+⚡;React+•+Angular+•+Vue+•+Node.js+•+PHP;Arquitectura+de+Procesos+y+Automatización;Integración+de+IA+%26+Workflows+Inteligentes+🤖;MongoDB+•+MySQL+•+PostgreSQL+•+Docker;Diseñando+experiencias+modernas+y+escalables+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Full+Stack+Developer+⚡;React+•+Angular+•+Vue+•+Node.js+•+PHP;Arquitectura+de+Procesos+y+Automatización;Integración+de+IA+%26+Workflows+Inteligentes+🤖;MongoDB+•+MySQL+•+PostgreSQL+•+Docker;Diseñando+experiencias+modernas+y+escalables+🚀" />
 
 <br/>
 
@@ -29,60 +32,109 @@
 
 </div>
 
----
+<br/>
 
-# 🚀 Tecnologías
+<!-- TECNOLOGIAS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=🚀%20Tecnologías&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
+
+<br/>
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td valign="top">
+<td valign="top" >
 
-## 🎨 Frontend
+<div>
 
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/><br/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"/><br/>
-</p>
+### 🎨 Frontend
 
-</td>
+<br/>
 
-<td valign="top">
+<img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-## ⚙️ Backend
+<br/>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Angular-1F2937?style=for-the-badge&logo=angular&logoColor=EF4444"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Vue.js-1F2937?style=for-the-badge&logo=vuedotjs&logoColor=4ADE80"/>
+
+</div>
 
 </td>
 
-<td valign="top">
+<td width="3%"></td>
 
-## 🗄️ Data
+<td valign="top" >
 
-<p align="left">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+<div>
+
+### ⚙️ Backend
+
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=4ADE80"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=F9FAFB"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PHP-1F2937?style=for-the-badge&logo=php&logoColor=A78BFA"/>
+
+</div>
 
 </td>
 
+<td width="3%"></td>
+
+<td valign="top" >
+
+<div>
+
+### 🗄️ Data
+
+<br/>
+
+<img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=4ADE80"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=60A5FA"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=93C5FD"/>
+
+</div>
+
+</td>
+
+<td width="3%"></td>
+
 <td valign="top">
 
-## 🖥️ Infraestructura
+<div>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-</p>
+### 🖥️ Infraestructura
+
+<br/>
+
+<img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=FACC15"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Windows-1F2937?style=for-the-badge&logo=microsoftwindows&logoColor=60A5FA"/>
+
+</div>
 
 </td>
 
@@ -93,46 +145,51 @@
 
 <br/>
 
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header&text=React%20•%20Angular%20•%20Vue%20•%20Node.js%20•%20PHP%20•%20MongoDB%20•%20Docker&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
+<!-- PERFIL -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=💡%20Perfil%20Profesional&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
 
----
+<br/>
 
-# 💡 Perfil Profesional
-
-<table>
+<table width="100%">
 <tr>
 
-<td valign="top">
+<td valign="top" width="33%">
 
 ### 🎨 UI/UX Moderna
 
-Diseño interfaces limpias, intuitivas y dinámicas enfocadas en experiencia de usuario, optimizando flujos complejos para que cualquier persona pueda utilizarlos de manera natural desde el primer momento.
+Diseño interfaces limpias, intuitivas y dinámicas enfocadas en experiencia de usuario, priorizando flujos claros y experiencias visuales modernas.
 
 </td>
 
-<td valign="top">
+<td width="4%"></td>
+
+<td valign="top" width="33%">
 
 ### ⚙️ Arquitectura Full Stack
 
-Desarrollo soluciones escalables integrando frontend moderno con APIs robustas, automatización de procesos y estructuras de datos optimizadas para proyectos de alta complejidad.
+Desarrollo soluciones escalables integrando frontend moderno, APIs robustas, automatización de procesos y workflows inteligentes impulsados por IA.
 
 </td>
 
-<td valign="top">
+<td width="4%"></td>
 
-### 🐳 Infraestructura & DevOps
+<td valign="top" width="33%">
 
-Trabajo con entornos Linux y Windows, contenedores Docker y despliegues optimizados para garantizar estabilidad, rendimiento y consistencia entre desarrollo y producción.
+### 🤖 Automatización & IA
+
+Implemento procesos inteligentes, integraciones automatizadas y experiencias potenciadas con inteligencia artificial para optimizar productividad y análisis.
 
 </td>
 
 </tr>
 </table>
 
----
+<br/>
 
-# 📊 GitHub Analytics
+<!-- ANALYTICS -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=📊%20GitHub%20Analytics&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
+
+<br/>
 
 <div align="center">
 
@@ -150,18 +207,21 @@ Trabajo con entornos Linux y Windows, contenedores Docker y despliegues optimiza
 
 </div>
 
----
+<br/> -->
 
-# 🤝 Contacto
+<!-- CONTACTO -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=🤝%20Contacto&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
+
+<br/>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sebastian-legnazzi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
 <a href="mailto:sebilegnazzi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
 </a>
 
 </div>
@@ -170,12 +230,12 @@ Trabajo con entornos Linux y Windows, contenedores Docker y despliegues optimiza
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SebastianLegnazzi&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=SebastianLegnazzi&label=Profile%20Views&color=374151&style=flat"/>
 
 <br/><br/>
 
 <sub>
-⚡ Innovación • Compromiso • Crecimiento 
+⚡ Innovación • Automatización • Inteligencia Artificial • Desarrollo Escalable
 </sub>
 
 </div>
