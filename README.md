@@ -1,11 +1,11 @@
 <!-- TRANSLATOR -->
 <div align="center">
 
-<a href="README.md">
+<a href="https://github.com/SebastianLegnazzi/SebastianLegnazzi/blob/main/README.md">
   <img src="https://img.shields.io/badge/🇪🇸%20Spanish-1F2937?style=for-the-badge&logo=googletranslate&logoColor=F9FAFB"/>
 </a>
 
-<a href="README.en.md">
+<a href="https://github.com/SebastianLegnazzi/SebastianLegnazzi/tree/English">
   <img src="https://img.shields.io/badge/🇺🇸%20English-1F2937?style=for-the-badge&logo=googletranslate&logoColor=60A5FA"/>
 </a>
 
