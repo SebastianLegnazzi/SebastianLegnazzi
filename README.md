@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="README.md">
-  <img src="https://img.shields.io/badge/🇪🇸%20Español-1F2937?style=for-the-badge&logo=googletranslate&logoColor=F9FAFB"/>
+  <img src="https://img.shields.io/badge/🇪🇸%20Spanish-1F2937?style=for-the-badge&logo=googletranslate&logoColor=F9FAFB"/>
 </a>
 
 <a href="README.en.md">
@@ -28,13 +28,13 @@
 <br/>
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Full+Stack+Developer+⚡;React+•+Angular+•+Vue+•+Node.js+•+PHP;Arquitectura+de+Procesos+y+Automatización;Integración+de+IA+%26+Workflows+Inteligentes+🤖;MongoDB+•+MySQL+•+PostgreSQL+•+Docker;Diseñando+experiencias+modernas+y+escalables+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Full+Stack+Developer+⚡;React+•+Angular+•+Vue+•+Node.js+•+PHP;Process+Architecture+and+Automation;AI+Integration+%26+Intelligent+Workflows+🤖;MongoDB+•+MySQL+•+PostgreSQL+•+Docker;Designing+modern+and+scalable+experiences+🚀" />
 
 <br/>
 
 <p>
   <i>
-    Transformando lógica compleja en experiencias modernas, intuitivas y escalables.
+    Transforming complex logic into modern, intuitive and scalable experiences.
   </i>
 </p>
 
@@ -48,8 +48,8 @@
 
 <br/>
 
-<!-- TECNOLOGIAS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=🚀%20Tecnologías&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
+<!-- TECHNOLOGIES -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=🚀%20Technologies&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -58,7 +58,7 @@
 <table width="100%">
 <tr>
 
-<td valign="top" >
+<td valign="top">
 
 <div>
 
@@ -74,7 +74,7 @@
 
 <td width="3%"></td>
 
-<td valign="top" >
+<td valign="top">
 
 <div>
 
@@ -87,14 +87,13 @@
 <br/><img src="https://img.shields.io/badge/Laravel-1F2937?style=for-the-badge&logo=laravel&logoColor=F97316"/>
 <br/><img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=4ADE80"/>
 
-
 </div>
 
 </td>
 
 <td width="3%"></td>
 
-<td valign="top" >
+<td valign="top">
 
 <div>
 
@@ -116,7 +115,7 @@
 
 <div>
 
-### 🖥️ Infraestructura
+### 🖥️ Infrastructure
 
 <br/><img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=FACC15"/>
 <br/><img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
@@ -133,8 +132,8 @@
 
 <br/>
 
-<!-- PERFIL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=💡%20Perfil%20Profesional&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
+<!-- PROFILE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=💡%20Professional%20Profile&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -143,19 +142,9 @@
 
 <td valign="top" width="33%">
 
-### 🎨 UI/UX Moderna
+### 🎨 Modern UI/UX
 
-Diseño interfaces limpias, intuitivas y dinámicas enfocadas en experiencia de usuario, priorizando flujos claros y experiencias visuales modernas.
-
-</td>
-
-<td width="4%"></td>
-
-<td valign="top" width="33%">
-
-### ⚙️ Arquitectura Full Stack
-
-Desarrollo soluciones escalables integrando frontend moderno, APIs robustas, automatización de procesos y workflows inteligentes impulsados por IA.
+I design clean, intuitive and dynamic interfaces focused on user experience, prioritizing clear flows and modern visual experiences.
 
 </td>
 
@@ -163,9 +152,19 @@ Desarrollo soluciones escalables integrando frontend moderno, APIs robustas, aut
 
 <td valign="top" width="33%">
 
-### 🤖 Automatización & IA
+### ⚙️ Full Stack Architecture
 
-Implemento procesos inteligentes, integraciones automatizadas y experiencias potenciadas con inteligencia artificial para optimizar productividad y análisis.
+I develop scalable solutions integrating modern frontend technologies, robust APIs, process automation and AI-powered intelligent workflows.
+
+</td>
+
+<td width="4%"></td>
+
+<td valign="top" width="33%">
+
+### 🤖 Automation & AI
+
+I implement intelligent processes, automated integrations and AI-powered experiences to optimize productivity and analysis.
 
 </td>
 
@@ -174,31 +173,8 @@ Implemento procesos inteligentes, integraciones automatizadas y experiencias pot
 
 <br/>
 
-<!-- ANALYTICS -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=📊%20GitHub%20Analytics&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
-
-<br/>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SebastianLegnazzi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianLegnazzi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianLegnazzi&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
-<br/> -->
-
-<!-- CONTACTO -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=🤝%20Contacto&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
+<!-- CONTACT -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1F2937,100:374151&height=85&section=header&text=🤝%20Contact&fontSize=28&fontColor=F9FAFB&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -223,7 +199,7 @@ Implemento procesos inteligentes, integraciones automatizadas y experiencias pot
 <br/><br/>
 
 <sub>
-⚡ Innovación • Automatización • Inteligencia Artificial • Desarrollo Escalable
+⚡ Innovation • Automation • Artificial Intelligence • Scalable Development
 </sub>
 
 </div>
